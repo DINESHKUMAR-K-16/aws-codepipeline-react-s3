@@ -3,7 +3,7 @@
 <div align="center">
 
   <br />
-    <a href="https://youtu.be/1k6s4shjpRc?si=NOQo77cZQtTA6eGW" target="_blank">
+    <a>
       <img src="https://github.com/user-attachments/assets/9f9b55f3-c9c2-4b87-97c7-030be3464a83" alt="Project Banner">
     </a>
   <br />
