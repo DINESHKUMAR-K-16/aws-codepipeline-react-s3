@@ -15,15 +15,7 @@
     </div>
 </div>
 
-## 🚨 Tutorial
 
-This repository contains the steps corresponding to an in-depth tutorial available on my YouTube
-channel, <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow my tutorial to learn how to build projects
-like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/1k6s4shjpRc?si=NOQo77cZQtTA6eGW" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
