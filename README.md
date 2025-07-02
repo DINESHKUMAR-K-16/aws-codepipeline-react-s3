@@ -10,9 +10,7 @@
 
 <h3 align="center">Deploying a React app using EC2 and Terraform</h3>
 
-   <div align="center">
-     Build this hands-on demo step by step with my detailed tutorial on <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a> YouTube. Feel free to subscribe 🔔!
-    </div>
+   
 </div>
 
 
