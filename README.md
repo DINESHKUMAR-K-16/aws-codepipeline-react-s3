@@ -34,7 +34,7 @@ First, we’ll set up a React app by cloning the React app from my GitHub reposi
 
 
 ```bash
-git clone https://github.com/julien-muke/saas-landing-page.git
+https://github.com/DINESHKUMAR-K-16/saas-landing-page.git
 ```
 
 ## ➡️ Step 2 - Create S3 Bucket for Hosting
